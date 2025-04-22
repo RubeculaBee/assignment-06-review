@@ -4,31 +4,31 @@ public class Person
     private int ssn;     // The person's social security number
 
     // null-arg constructor
-    Person() {}
+    public Person() {}
 
-    Person(String name, int ssn)
+    public Person(String name, int ssn)
     {
         this.name = name;
         this.ssn = ssn;
     }
 
     // Name can be obtained and changed
-    String getName()
+    public String getName()
     {
         return name;
     }
-    void setName(String name)
+    public void setName(String name)
     {
         this.name = name;
     }
 
     // social can be obtained but not changed.
-    int getSsn()
+    public int getSsn()
     {
         return ssn;
     }
 
-    void greet()
+    public void greet()
     {
         System.out.printf("Hello, I am a non specific person, my name is %s\n", this.name);
     }
