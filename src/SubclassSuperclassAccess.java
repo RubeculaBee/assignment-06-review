@@ -1,3 +1,14 @@
+/*********************************************************************************
+ *
+ * File: SubclassSuperclassAccess.java
+ * By: Robin Lane
+ * Date: 04-22-2025
+ *
+ * Description: Simple test driver to demonstrate which methods
+ *              subclasses/superclasses can access.
+ *
+ *********************************************************************************/
+
 public class SubclassSuperclassAccess
 {
     public static void main(String[] args)

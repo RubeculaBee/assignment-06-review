@@ -1,3 +1,14 @@
+/*********************************************************************************
+ *
+ * File: Person.java
+ * By: Robin Lane
+ * Date: 04-22-2025
+ *
+ * Description: Simple class to represent a person that has a name, social
+ *              security number, and can greet.
+ *
+ *********************************************************************************/
+
 public class Person
 {
     private String name; // The person's name

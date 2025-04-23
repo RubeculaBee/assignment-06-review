@@ -1,3 +1,14 @@
+/*********************************************************************************
+ *
+ * File: Gamer.java
+ * By: Robin Lane
+ * Date: 04-22-2025
+ *
+ * Description: Subclass of the person class, additionally stores a favourite
+ *              game, and has an overridden greet method,
+ *
+ *********************************************************************************/
+
 public class Gamer extends Person
 {
     private String favGame;

@@ -1,3 +1,14 @@
+/*********************************************************************************
+ *
+ * File: Writer.java
+ * By: Robin Lane
+ * Date: 04-22-2025
+ *
+ * Description: Subclass of the person class, additionally stores a favourite
+ *              book, and has an overridden greet method,
+ *
+ *********************************************************************************/
+
 public class Writer extends Person
 {
     private String favBook;
