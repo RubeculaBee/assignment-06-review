@@ -1,3 +1,14 @@
+/*********************************************************************************
+ *
+ * File: GenericDataTypes.java
+ * By: Robin Lane
+ * Date: 05-06-2025
+ *
+ * Description: Driver class to use and test the LinkedBag class. Demonstrates the
+ *              usage of parameterized class, such as the Linked Bag in question.
+ *
+ *********************************************************************************/
+
 import java.util.Arrays;
 
 public class GenericDataTypes

@@ -1,3 +1,15 @@
+/*********************************************************************************
+ *
+ * File: LinkedBag.java
+ * By: Robin Lane
+ * Date: 05-06-2025
+ *
+ * Description: Simple implementation of a Linked Bag data structure. Uses
+ *              generic data-type T. Data can be added \ to, removed from,
+ *              changed, obtained, among other methods.
+ *
+ *********************************************************************************/
+
 import java.lang.reflect.Array;
 
 public class LinkedBag<T>
