@@ -1,0 +1,5 @@
+package People;
+
+class Student
+{
+}
