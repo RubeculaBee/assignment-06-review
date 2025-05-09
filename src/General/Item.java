@@ -1,5 +1,5 @@
 package General;
 
-class Item
+public abstract class Item
 {
 }

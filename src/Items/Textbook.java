@@ -4,6 +4,6 @@ package Items;
 import General.Item;
 
 // Successfully extends Item, it is a public class and it has been imported
-public class Phone extends Item
+public class Textbook extends Item
 {
 }
